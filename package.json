@@ -1,0 +1,14 @@
+{
+  "name": "kopi-senja-backend",
+  "version": "1.0.0",
+  "description": "Backend sederhana untuk Kopi Senja (order API + admin)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
